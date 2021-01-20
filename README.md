@@ -1,2 +1,2 @@
-# colab-training
-Materiały szkoleniowe do szkolenia - I ty możesz rozpoznawać kotki
+# I ty możesz rozpoznawać kotki
+W repozytorium znajdują się przykładowe notatniki wykorzystywane podczas szkolenia z Colab
